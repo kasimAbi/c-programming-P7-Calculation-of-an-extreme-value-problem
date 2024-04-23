@@ -1,0 +1,6 @@
+﻿  P7A1.cpp
+c:\users\kamer001\desktop\uni\programmieren\für b 14.11.2016\p7a1\p7a1.cpp(37): warning C4805: "==": unsichere Kombination von Typ "double" mit Typ "bool" in einer Operation
+c:\users\kamer001\desktop\uni\programmieren\für b 14.11.2016\p7a1\p7a1.cpp(49): warning C4805: "==": unsichere Kombination von Typ "double" mit Typ "bool" in einer Operation
+c:\users\kamer001\desktop\uni\programmieren\für b 14.11.2016\p7a1\p7a1.cpp(63): warning C4805: "==": unsichere Kombination von Typ "double" mit Typ "bool" in einer Operation
+  P7A1.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Für b 14.11.2016\P7A1\Debug\P7A1.exe
+  P7A1.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Für b 14.11.2016\P7A1\Debug\P7A1.pdb (Partial PDB)
